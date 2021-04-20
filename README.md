@@ -1,3 +1,6 @@
+
+要学习图像的超分辨率，首先通过GAN来学习图像退化
+
 # Face and Image Super-resolution
 ## Paper
 Adrian Bulat*, Jing Yang*, Georgios Tzimiropoulos
